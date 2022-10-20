@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: paper
 ---
 
 # This is Jeff's awesome website
@@ -13,10 +13,10 @@ output:
 I use [google](google.com)
 This is a cat!
 ![](download.jpg)
-go to [about page](about.html)
-```{r}
+This is a smaller cat! (supposed to be)
+<img src="download.jpg" style="width:75%">
 
-```
+go to [about page](about.html)
 
 ```{r}
 ```
