@@ -10,3 +10,29 @@ output:
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+I use [google](google.com)
+This is a cat!
+![](download.jpg)
+go to [about page](about.html)
+```{r}
+
+```
+
+```{r}
+```
+
+
+```{r}
+```
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
