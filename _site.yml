@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<wjx_jessie@outlook.com>
     - icon: fa-github fa-lg
